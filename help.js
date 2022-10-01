@@ -18,7 +18,7 @@ ${runtime}
 
 *GROUPS MENU*
 • ${prefix}kick *@tag*
-• ${prefix}add *62855xxx*
+• ${prefix}add *62895xxx*
 • ${prefix}group *open/close*
 • ${prefix}setppgroup *reply image*
 • ${prefix}setgcname *text*
