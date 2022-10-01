@@ -89,7 +89,7 @@ webpmux -version
 - [Saweria](https://saweria.co/ramlanid)
 
 # Features
-- Cek [disini](https://github.com/Ramlan404/babybot/blob/main/help.js)
+- Cek [disini](https://github.com/FrrlxD/FrrlDfniBOT/blob/main/help.js)
 
 # Thanks to
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
