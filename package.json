@@ -1,14 +1,14 @@
 {
-  "name": "BABYBOT-MD",
+  "name": "FrrlDfni-MD",
   "version": "2.0.0",
-  "description": "support me on youtube RAMLAN ID",
+  "description": "Follow My Instagram @farrelauliairfealdo_",
   "main": "main.js",
   "scripts": {
     "start": "node main.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Ramlan404"
+    "url": "https://github.com/FrrlxD/FrrlDfniBOT"
   },
   "author": "Ramlan ID",
   "license": "ISC",
